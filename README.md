@@ -38,4 +38,4 @@ python3 app.py
 
 ## 🛠 Технологии
 **Python** + **Flask** + **Jinja2** + **SQLite**
-EOF
+
